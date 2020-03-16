@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(199, 194, 194);
+    background-size: cover;
+    margin:0;
+}
+
+
+header{
+    box-shadow: 5px 5px 5px black ;
+}
+
+
+nav{
+    background-color:white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 38px;
+    padding: 18px;
+}
+
+
+#nav{
+    width: 292px;
+    height: 87px;
+    margin-top: -25px;
+    font-size: 50px;width: 292px;
+    height: 87px;
+    font-family: fantasy; 
+}
+
+
+h1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 26px; 
+}
+
+
+table{
+    padding: 20px;
+    background-color: white;
+    border: solid 1px black;
+    width: 58%;
+    margin-left: 180px;
+    margin-top: -35px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    width: 77%;
+    }
+
+
+td { 
+    border-width: 1px;
+    border-style: solid;
+    padding-left: 20px;
+    background-color: aliceblue;
+    }
+
+
+.def{
+    font-style: italic;
+}
+
+
+footer { 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 30px;
+    background-color: white;
+    box-shadow: 5px 5px 5px black;
+    height: 67px;  
+}
+
+
+#logo{
+    width: 262px;
+    height: 67px;
+}
